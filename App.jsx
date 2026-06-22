@@ -1,8 +1,8 @@
-import Staking from "./Staking";
+import Crowdfunding from "./Crowdfunding";
 
 function App(){
   return(
-    <Staking />
+    <Crowdfunding />
   );
 }
 
